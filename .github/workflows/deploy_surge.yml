@@ -1,0 +1,24 @@
+name: Deploy Website
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  
+  build_Job: #This workflow contains a single job named "Build_Job"
+    runs-on: ubuntu-latest 
+    steps: #sequence of tasks under this job
+    - uses: actions/checkout@v2  # Access GitHub Repository
+    - name: Install NodeJS
+      uses: actions/setup-node@v2-beta
+      with: 
+        node-version: 14
+    - name: Install Surge
+      run: npm install -g surge
+
+    - name: Run Surge
+      run: surge ./  Bootcamp-proj1-C1.surge.sh --token ${{secrets.SURGE_TOKEN}}
+
+    
+      
