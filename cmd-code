@@ -1,0 +1,179 @@
+Microsoft Windows [Version 10.0.19045.5011]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Farhad Ali>node -v
+v20.18.0
+
+C:\Users\Farhad Ali>sudo npm install --glbally surge
+'sudo' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Farhad Ali> npm install --glbally surge
+
+up to date, audited 5 packages in 4s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\Farhad Ali>surge C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: C:\Users\Farhad
+
+
+C:\Users\Farhad Ali> cd C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1>surge C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: C:\Users\Farhad
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1>surge ..\Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: ..\Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1>surge ../Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: ../Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1>surge C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: C:\Users\Farhad
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1> cd GitHub
+The system cannot find the path specified.
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1> cd ../GitHub
+The system cannot find the path specified.
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1> cd Bootcamp2020
+The system cannot find the path specified.
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1> cd C:\Users\Farhad Ali\Documents\
+
+C:\Users\Farhad Ali\Documents>surge C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh\
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: C:\Users\Farhad
+
+
+C:\Users\Farhad Ali\Documents> cd C:\Users\Farhad Ali
+
+C:\Users\Farhad Ali>surge C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh\
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: C:\Users\Farhad
+
+
+C:\Users\Farhad Ali>surge Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1\Bootcamp2020-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: Users\Farhad
+
+
+C:\Users\Farhad Ali> cd C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1>surge Bootcamp-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: Bootcamp-C1.surge.sh
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1>surge Bootcamp-C1/Bootcamp-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: Bootcamp-C1/Bootcamp-C1.surge.sh
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1>surge Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1\ Bootcamp2020-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: Users\Farhad
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1>surge Bootcamp-C1\Bootcamp-C1\ Bootcamp2020-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+   Aborted - No such file or directory: Bootcamp-C1\Bootcamp-C1\
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1>surge ../Bootcamp-C1\ Bootcamp2020-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+        project: ../Bootcamp-C1\
+         domain: Bootcamp2020-C1.surge.sh
+           size: 1 files, 283 bytes
+
+   Aborted - you do not have permission to publish to Bootcamp2020-C1.surge.sh
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1>surge ../Bootcamp-C1\ Bootcamp2020-project-C1.surge.sh
+
+   Running as abbasiali336@gmail.com (Student)
+
+        project: ../Bootcamp-C1\
+         domain: Bootcamp2020-project-C1.surge.sh
+           size: 1 files, 283 bytes
+         upload: [=========================] 100%
+            CDN: [=========================] 100%
+     encryption: [=========================] 100%
+
+  ┌──────────────────────────────────────────────────────────────────────────────┬────────────────────┐
+  │  Certificate: issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sec…  │  Valid             │
+  │   *.surge.sh, surge.sh                                                       │  202 more days     │
+  └──────────────────────────────────────────────────────────────────────────────┴────────────────────┘
+  ┌──────────┬──────────────────────────────────────────────────────────────────────────────┬─────────┐
+  │          │   ns1.surge.world   ns2.surge.world     or CNAME…                            │         │
+  │    NS    │   ns3.surge.world   ns4.surge.world     geo.surge.world                      │         │
+  ├──────────┼──────────────────┬───────────────────────┬─────────────────────┬─────────────┼─────────┤
+  │   HTTP   │   sfo.surge.sh   │   US, San Francisco   │   138.197.235.123   │   D.Ocean   │   ✔ ◍   │
+  │   HTTP   │   lhr.surge.sh   │   GB, London          │   46.101.67.123     │   D.Ocean   │   ✔ ◍   │
+  │   HTTP   │   yyz.surge.sh   │   CA, Toronto         │   159.203.50.177    │   D.Ocean   │   ✔ ◍   │
+  │   HTTP   │   jfk.surge.sh   │   US, New York        │   159.203.159.100   │   D.Ocean   │   ✔ ◍   │
+  │   HTTP   │   ams.surge.sh   │   NL, Amsterdam       │   188.166.132.94    │   D.Ocean   │   ✔ ◍   │
+  │   HTTP   │   fra.surge.sh   │   DE, Frankfurt       │   138.68.112.220    │   D.Ocean   │   ✔ ◍   │
+  │   HTTP   │   sgp.surge.sh   │   SG, Singapore       │   139.59.195.30     │   D.Ocean   │   ✔ ◍   │
+  │   HTTP   │   blr.surge.sh   │   IN, Bangalore       │   139.59.50.135     │   D.Ocean   │   ✔ ◍   │
+  │   HTTP   │   syd.surge.sh   │   AU, Sydney          │   45.76.126.95      │   Vultr     │   ✔ ◍   │
+  │   HTTP   │   nrt.surge.sh   │   JP, Tokyo           │   172.104.96.133    │   Linode    │   ✔ ◍   │
+  └──────────┴──────────────────┴───────────────────────┴─────────────────────┴─────────────┴─────────┘
+   Live preview ....................................... 1730190147896-bootcamp2020-project-c1.surge.sh
+   Production ....................................................... bootcamp2020-project-c1.surge.sh
+
+   Success! - Published to Bootcamp2020-project-C1.surge.sh
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1>
+
+
+-->> Successfully Deployed Now!
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1>surge token
+
+   fabb1d0603460ba51987638353e66f59
+
+
+C:\Users\Farhad Ali\Documents\GitHub\Bootcamp2020\Bootcamp-C1\Bootcamp-C1>
